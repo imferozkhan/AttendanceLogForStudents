@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AttendanceLog.Api/AttendanceLog.Api.csproj" />
+  <Project Path="AttendanceLog.Application/AttendanceLog.Application.csproj" />
+  <Project Path="AttendanceLog.Domain/AttendanceLog.Domain.csproj" />
+  <Project Path="AttendanceLog.Infrastructure/AttendanceLog.Infrastructure.csproj" />
+</Solution>
