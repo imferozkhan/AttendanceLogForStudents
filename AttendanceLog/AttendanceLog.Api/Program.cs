@@ -1,4 +1,7 @@
 
+using AttendanceLog.Infrastructure.DBContext;
+using Microsoft.EntityFrameworkCore;
+
 namespace AttendanceLog.Api
 {
     public class Program
@@ -12,6 +15,7 @@ namespace AttendanceLog.Api
             builder.Services.AddControllers();
             // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
             builder.Services.AddSwaggerGen();
+            builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
             var app = builder.Build();
 
