@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kb38SRr3Cs4=",
+  "dgSpecHash": "6V6a2Ei8Fc4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\imfer\\source\\repos\\AttendanceLog\\AttendanceLog.Infrastructure\\AttendanceLog.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\imfer\\source\\repos\\AttendanceLogForStudents\\AttendanceLog\\AttendanceLog.Infrastructure\\AttendanceLog.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\imfer\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\imfer\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

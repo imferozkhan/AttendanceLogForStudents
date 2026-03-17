@@ -1,0 +1,12 @@
+C:\Users\imfer\source\repos\AttendanceLogForStudents\AttendanceLog\AttendanceLog.Domain\bin\Debug\net10.0\AttendanceLog.Domain.deps.json
+C:\Users\imfer\source\repos\AttendanceLogForStudents\AttendanceLog\AttendanceLog.Domain\bin\Debug\net10.0\AttendanceLog.Domain.dll
+C:\Users\imfer\source\repos\AttendanceLogForStudents\AttendanceLog\AttendanceLog.Domain\bin\Debug\net10.0\AttendanceLog.Domain.pdb
+C:\Users\imfer\source\repos\AttendanceLogForStudents\AttendanceLog\AttendanceLog.Domain\obj\Debug\net10.0\AttendanceLog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imfer\source\repos\AttendanceLogForStudents\AttendanceLog\AttendanceLog.Domain\obj\Debug\net10.0\AttendanceLog.Domain.AssemblyInfoInputs.cache
+C:\Users\imfer\source\repos\AttendanceLogForStudents\AttendanceLog\AttendanceLog.Domain\obj\Debug\net10.0\AttendanceLog.Domain.AssemblyInfo.cs
+C:\Users\imfer\source\repos\AttendanceLogForStudents\AttendanceLog\AttendanceLog.Domain\obj\Debug\net10.0\AttendanceLog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\imfer\source\repos\AttendanceLogForStudents\AttendanceLog\AttendanceLog.Domain\obj\Debug\net10.0\AttendanceLog.Domain.sourcelink.json
+C:\Users\imfer\source\repos\AttendanceLogForStudents\AttendanceLog\AttendanceLog.Domain\obj\Debug\net10.0\AttendanceLog.Domain.dll
+C:\Users\imfer\source\repos\AttendanceLogForStudents\AttendanceLog\AttendanceLog.Domain\obj\Debug\net10.0\refint\AttendanceLog.Domain.dll
+C:\Users\imfer\source\repos\AttendanceLogForStudents\AttendanceLog\AttendanceLog.Domain\obj\Debug\net10.0\AttendanceLog.Domain.pdb
+C:\Users\imfer\source\repos\AttendanceLogForStudents\AttendanceLog\AttendanceLog.Domain\obj\Debug\net10.0\ref\AttendanceLog.Domain.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\imfer\\source\\repos\\AttendanceLog\\AttendanceLog.Domain\\AttendanceLog.Domain.csproj": {}
+    "C:\\Users\\imfer\\source\\repos\\AttendanceLogForStudents\\AttendanceLog\\AttendanceLog.Domain\\AttendanceLog.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\imfer\\source\\repos\\AttendanceLog\\AttendanceLog.Domain\\AttendanceLog.Domain.csproj": {
+    "C:\\Users\\imfer\\source\\repos\\AttendanceLogForStudents\\AttendanceLog\\AttendanceLog.Domain\\AttendanceLog.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\imfer\\source\\repos\\AttendanceLog\\AttendanceLog.Domain\\AttendanceLog.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\imfer\\source\\repos\\AttendanceLogForStudents\\AttendanceLog\\AttendanceLog.Domain\\AttendanceLog.Domain.csproj",
         "projectName": "AttendanceLog.Domain",
-        "projectPath": "C:\\Users\\imfer\\source\\repos\\AttendanceLog\\AttendanceLog.Domain\\AttendanceLog.Domain.csproj",
+        "projectPath": "C:\\Users\\imfer\\source\\repos\\AttendanceLogForStudents\\AttendanceLog\\AttendanceLog.Domain\\AttendanceLog.Domain.csproj",
         "packagesPath": "C:\\Users\\imfer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\imfer\\source\\repos\\AttendanceLog\\AttendanceLog.Domain\\obj\\",
+        "outputPath": "C:\\Users\\imfer\\source\\repos\\AttendanceLogForStudents\\AttendanceLog\\AttendanceLog.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
